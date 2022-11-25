@@ -1,7 +1,5 @@
 body{
-background-image: url("record.png");
-background-repeat: repeat;
-
+background-image: url(record.png);
 }
 
 header {
@@ -12,4 +10,6 @@ header {
 
 main {
   background-color: lightgray;
+  background-repeat: space;
+
 }

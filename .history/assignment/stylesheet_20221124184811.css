@@ -1,10 +1,4 @@
-body{
-background-image: url("record.png");
-background-repeat: repeat;
-
-}
-
-header {
+body{header {
   color: floralwhite;
   background-color: indigo;
   text-align: center;
@@ -12,4 +6,5 @@ header {
 
 main {
   background-color: lightgray;
+
 }
